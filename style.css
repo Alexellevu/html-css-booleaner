@@ -1,4 +1,6 @@
 #barra_logo{
-    height: 40;
-    background-color: black;
+    height: 70px;
+    background-image: url(img/pattern.png);
+    background-size: contain;
+    background-color:cornflowerblue;
 }
