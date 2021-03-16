@@ -13,13 +13,18 @@ body{
 .titolo{
     font-size: 40px;
     font-style: normal;
-    
 }
 
 .sottotitolo{
- padding-top: 0%;
- text-decoration-color: cyan;
+ color: cyan;
+ margin-top: 0%;
 }
+
+.descrizione_foto{
+    font-size: 12px;
+    font-style: normal;
+}
+
 
 .colonna_piccola{
     width: 300px;
